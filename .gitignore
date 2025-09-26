@@ -1,0 +1,23 @@
+﻿# venv
+.venv/
+venv/
+
+# data
+data/
+*.csv
+*.json
+*.xlsx
+
+# jupyter
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
